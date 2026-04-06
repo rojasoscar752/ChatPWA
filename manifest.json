@@ -1,0 +1,6 @@
+{
+    "name": "Chat PWA",
+    "short_name": "ChatPWa",
+    "description": "Chat PWA",
+    "scope": "./"
+}
